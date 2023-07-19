@@ -1,0 +1,1 @@
+/usr/bin/c++  -Wall CMakeFiles/image_processor.dir/image_processor.cpp.o CMakeFiles/image_processor.dir/Image.cpp.o CMakeFiles/image_processor.dir/Pixel.cpp.o CMakeFiles/image_processor.dir/BmpController.cpp.o -o image_processor 

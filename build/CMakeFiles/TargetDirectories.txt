@@ -1,0 +1,3 @@
+/home/eug/cpp-base-hse-2022/projects/image_processor/build/CMakeFiles/image_processor.dir
+/home/eug/cpp-base-hse-2022/projects/image_processor/build/CMakeFiles/edit_cache.dir
+/home/eug/cpp-base-hse-2022/projects/image_processor/build/CMakeFiles/rebuild_cache.dir
